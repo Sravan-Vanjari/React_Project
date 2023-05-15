@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "id": "sagar",
+      "name": "sadsdf",
+      "password": "1234",
+      "email": "fdasfsfgs",
+      "phone": "dfgrtyrtu",
+      "country": "",
+      "Address": "76tutghvhghgf"
+    },
+    {
+      "id": "sravan",
+      "name": "kumar",
+      "password": "12345",
+      "email": "fjsdfhksjdh",
+      "phone": "9505482627",
+      "country": "",
+      "Address": "hgytrtyrytg"
+    }
+  ],
+  "addproducts": [
+    {
+      "imgsrc": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/lkn0extnvjywfts4q7gw",
+      "title": "Biryani",
+      "price": "250",
+      "model": "Hyderabad",
+      "id": 1
+    },
+    {
+      "title": "dum biriyani",
+      "imgsrc": "https://vismaifood.com/storage/app/uploads/public/980/eb9/ed6/thumb__700_0_0_0_auto.jpg",
+      "price": "1499",
+      "model": "Hyderabad",
+      "id": 2
+    },
+    {
+      "title": "chiken fry biryani",
+      "imgsrc": "https://assets.cntraveller.in/photos/63997ddc9ee4918a0f9a6861/16:9/pass/biryani%20in%20hyderabad.jpg",
+      "price": "650",
+      "model": "Hyderabad",
+      "id": 3
+    },
+    {
+      "title": "chiken fry biryani",
+      "imgsrc": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+      "price": "199",
+      "model": "Hyderabad",
+      "id": 4
+    },
+    {
+      "title": "kmkmjbh",
+      "imgsrc": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+      "price": "159",
+      "model": "Karnataka",
+      "id": 5
+    },
+    {
+      "title": "ghhkjhjbjhb",
+      "imgsrc": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+      "price": "255",
+      "model": "Tamil nadu",
+      "id": 6
+    },
+    {
+      "title": "gjhhhhhhhbh",
+      "imgsrc": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+      "price": "156",
+      "model": "Goa",
+      "id": 7
+    },
+    {
+      "title": "knkjnkjbk",
+      "imgsrc": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+      "price": "151",
+      "model": "Andhra Pradesh",
+      "id": 8
+    },
+    {
+      "title": "hjhbhbjhbhb",
+      "imgsrc": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+      "price": "757",
+      "model": "Gujurat",
+      "id": 9
+    },
+    {
+      "title": "ADsag",
+      "imgsrc": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/06/fast-food-assortment-soda.jpg?quality=82&strip=1",
+      "price": "R522",
+      "model": "Tamil nadu",
+      "id": 10
+    },
+    {
+      "title": "dfghjkl.",
+      "imgsrc": "fdghj",
+      "price": "fghjk",
+      "model": "Hyderabad",
+      "id": 11
+    }
+  ]
+}
